@@ -1,2 +1,2 @@
-halohub/halo-pro:latest
+halohub/halo-pro:2.16.4
 xhofe/alist:latest
